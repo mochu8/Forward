@@ -1,0 +1,70 @@
+{
+  "title": "mochu8 Forward",
+  "description": "mochu8 的 Forward 模块合集",
+  "icon": "https://raw.githubusercontent.com/mochu8/Forward/main/icon.png",
+  "widgets": [
+    {
+      "id": "mochu8_91porn_int",
+      "title": "91porn",
+      "description": "91porn 模块",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "mochu8",
+      "url": "https://raw.githubusercontent.com/mochu8/Forward/main/91porn_int.js"
+    },
+    {
+      "id": "mochu8_91porny_int",
+      "title": "91porny",
+      "description": "91porny 模块",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "mochu8",
+      "url": "https://raw.githubusercontent.com/mochu8/Forward/main/91porny_int.js"
+    },
+    {
+      "id": "mochu8_jable",
+      "title": "Jable",
+      "description": "Jable 模块",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "mochu8",
+      "url": "https://raw.githubusercontent.com/mochu8/Forward/main/jable.js"
+    },
+    {
+      "id": "mochu8_javday_int",
+      "title": "Javday",
+      "description": "Javday 模块",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "mochu8",
+      "url": "https://raw.githubusercontent.com/mochu8/Forward/main/javday_int.js"
+    },
+    {
+      "id": "mochu8_pornhub_int",
+      "title": "Pornhub",
+      "description": "Pornhub 模块",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "mochu8",
+      "url": "https://raw.githubusercontent.com/mochu8/Forward/main/pornhub_int.js"
+    },
+    {
+      "id": "mochu8_xvideos_int",
+      "title": "Xvideos",
+      "description": "Xvideos 模块",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "mochu8",
+      "url": "https://raw.githubusercontent.com/mochu8/Forward/main/xvideos_int.js"
+    },
+    {
+      "id": "mochu8_nsfw_live",
+      "title": "NSFW LIVE",
+      "description": "NSFW LIVE 模块",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "mochu8",
+      "url": "https://raw.githubusercontent.com/mochu8/Forward/main/NSFW-LIVE.js"
+    }
+  ]
+}
