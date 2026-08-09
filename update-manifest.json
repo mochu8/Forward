@@ -1,6 +1,6 @@
 {
-  "version": "3.1.3",
+  "version": "3.1.4",
   "source_url": "https://raw.githubusercontent.com/mochu8/Forward/main/worker.js",
-  "sha256": "9f6dbf638b79f81c64ced58aa1675b733180fd2339c52c0a4ec83632a603fad1",
-  "notes": "V3.1.3 修复 Cloudflare Workers 不支持 redirect=error 导致无法检查 GitHub 更新；保留 V3.1.2 的 D1 审计表修复，反代与绑定不变。"
+  "sha256": "52cc82e781cf103a475c87deebb4df6595b3445d1173d8da337755b9cf3e8b4c",
+  "notes": "V3.1.4 恢复并升级登录页背景：内置深色边缘网络视觉，同时支持 LOGIN_BG_URL 配置 HTTPS 图片；保留 D1 与 GitHub 更新修复，反代逻辑不变。"
 }
