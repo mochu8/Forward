@@ -1,6 +1,6 @@
 {
-  "version": "3.1.0",
+  "version": "3.1.1",
   "source_url": "https://raw.githubusercontent.com/mochu8/Forward/main/worker.js",
-  "sha256": "3b24d39a48a76498f66eb0ccc35644893d8809226c94e8f2ecf5f43b75040d13",
-  "notes": "V3.1 现代化面板、安全更新中心、TG通知与反代功能优化"
+  "sha256": "819fdf9e11b969918f90d8b95b2683239904d92a9276108a5fcdcb13b57dd099",
+  "notes": "V3.1.1 内置 mochu8/Forward 公开更新源，无需配置 GITHUB_UPDATE_MANIFEST_URL 或 GITHUB_TOKEN。"
 }
